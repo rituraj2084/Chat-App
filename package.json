@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "socket.io": "^4.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rituraj2084/Chat-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rituraj2084/Chat-App/issues"
+  },
+  "homepage": "https://github.com/rituraj2084/Chat-App#readme"
 }
